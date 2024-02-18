@@ -102,4 +102,4 @@ Belirtilen isimle yeni bir branch oluşturur.
 Belirtilen isimdeki branch'a geçiş yapar.
 
 NOT: Visual Studio Code ile çalışırken, sol alt köşede üzerinde çalıştığınız branch ismini görebilirsin
-### `deneme olarak yapıldı`  
+    ### `deneme olarak yapıldı`  
